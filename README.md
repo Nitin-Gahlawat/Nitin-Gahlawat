@@ -1,12 +1,19 @@
 ![github-banner](https://user-images.githubusercontent.com/75297171/232302548-ca61a270-ccc5-479e-b3ce-271bea384059.jpeg)
 
-<h1 align="center">Hi👋, I'm Nitin Gahlawat</h1>
+<h1 align="center">Hi, I'm Nitin Gahlawat 👋</h1>
+
+<h3 align="left" ><b>About Me</b></h3>
+<p align="left">I am an ambitious coding student, I'm fueled by the endless possibilities of technology. Eager to unlock the secrets of programming, I embrace challenges with determination and creativity. Constantly learning, I immerse myself in coding languages and frameworks to build a strong foundation. Collaborating with peers, I seek to expand my horizons and contribute to innovative projects. With a passion for problem-solving, I'm driven to become a proficient coder, making a positive impact on the digital world.</p>
+<br>
+
+<hr>
+
 
 <p align="right">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><b>Languages and Tools</b></h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
@@ -44,7 +51,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<br>
+
+<h3 align="left"><b>Connect with me</b></h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/Nitin-Gahlawat-80b777249/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
@@ -56,14 +65,10 @@
   <img width="12" />
 </div>
 
-<br>
-
-<br>
 <hr>
 
-<h3>My Github Stats:</h3>
+<h3><b>My Github Stats</b></h3>
 
-<br>
 
-| <a href="https://github.com/Nitin-Gahlawat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitin-Gahlawat&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nitin-Gahlawat" width="100%" /></a> | <a href="https://github.com/Nitin-Gahlawat"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin-Gahlawat&layout=compact&theme=buefy&hide_border=true" width="90%" /></a> |
+| <a href="https://github.com/Nitin-Gahlawat"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin-Gahlawat&layout=compact&theme=github_dark&hide_border=true" width="90%" height=180 /></a> |<a href="https://github.com/Nitin-Gahlawat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitin-Gahlawat&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Nitin-Gahlawat" width="100%" height=130 /></a> |
 | ------------- | ------------- |
