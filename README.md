@@ -64,7 +64,7 @@
   </a>
   <img width="12" />
 </div>
-
+<br>
 <hr>
 
 <h3><b>My Github Stats</b></h3>
